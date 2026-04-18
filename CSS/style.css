@@ -27,6 +27,7 @@ nav {
 
 a {
     color: darkgray;
+    text-decoration: none;
 }
 
 #text01 {
@@ -87,8 +88,10 @@ a {
 
 .pu {
     border-radius:40px;
-    width: 100px;
-    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     background-color: aqua;
     align-items: center;
 }
