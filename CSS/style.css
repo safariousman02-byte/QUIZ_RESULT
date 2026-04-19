@@ -206,6 +206,25 @@ a {
     padding: 20px;
 }
 
-.three {
-    background-color: green;
+.tre01 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: smaller;
+    background-color: white;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.tre02 {
+    display: flex;
+    gap: 30px;
+}
+
+.d {
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
