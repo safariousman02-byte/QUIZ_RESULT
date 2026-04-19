@@ -228,3 +228,49 @@ a {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.tre02xpc {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.c {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    color: #9a4eff;
+    background-color: #e0cef8;
+    padding: 8px;
+}
+
+.cc {
+    color: #9a4eff;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 9px;
+}
+
+.cl {
+    font-size: 16px;
+    color: #bd92f7;
+    text-align: left;
+}
+
+.cp {
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.co {
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.tre03 {
+    padding: 20px;
+    background-color: #dbc8f7;
+    border-radius: 20px;
+}
