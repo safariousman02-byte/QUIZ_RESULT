@@ -250,7 +250,6 @@ a {
     color: #9a4eff;
     font-size: 17px;
     font-weight: bold;
-    padding: 9px;
 }
 
 .cl {
@@ -303,4 +302,16 @@ a {
     padding-top: 8px;
     color: #444040;
     background-color: #444040;
+}
+
+.ao {
+    color:#444040;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.ap {
+    font-size: 16px;
+    color: #3b3a3d;
+    text-align: left;
 }
