@@ -274,3 +274,33 @@ a {
     background-color: #dbc8f7;
     border-radius: 20px;
 }
+
+.aa {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.as {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.bbb {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tre04 {
+    background-color: #37AACF;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.h {
+     
+    padding-bottom: 8px;
+    padding-top: 8px;
+    color: #444040;
+    background-color: #444040;
+}
